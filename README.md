@@ -1,2 +1,2 @@
-# 2025-TryHackMe-AoC
-This folder is my writeups for TryHackMe's Advent of Cyber for 2025
+# Write-Ups
+This folder is for all my write-ups
